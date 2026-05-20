@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+
+# Kaggle / outputs
+/kaggle/
+*.pth
+*.pt
+*.pkl.gz
+*.zip
+
+# Data
+data/
+datasets/
+
+# OS
+.DS_Store
+
+# Logs
+logs/
+wandb/

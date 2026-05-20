@@ -1,0 +1,2 @@
+model,test_accuracy,test_macro_f1,test_loss,phase1_epochs,phase2_max_epochs,phase2_epochs_completed,phase2_early_stopping_patience,best_validation_f1,best_validation_accuracy_for_early_stop
+EfficientNet-B0 Dense,0.9663608562691132,0.9669677875620498,0.15579530483272655,20,50,45,20,0.9761313715749588,0.9754601226993865

@@ -1,0 +1,2 @@
+model,test_accuracy,test_macro_f1,test_loss
+CNN Baseline,0.5532994923857868,0.5221520668174322,2.415928578618819

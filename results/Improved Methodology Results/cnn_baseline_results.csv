@@ -1,0 +1,2 @@
+model,test_accuracy,test_macro_f1,test_loss,epochs
+CNN Baseline,0.9571865443425076,0.956593341198874,0.1564571900743228,50

@@ -1,0 +1,2 @@
+model,test_accuracy,test_macro_f1,test_loss
+EfficientNet-B0 Dense,0.7791878172588832,0.7576181678880498,1.3011696924583107
